@@ -194,7 +194,7 @@ transform: rotate(20deg);
 .hero {
 max-width: 1200px;
 margin: 0 auto;
-padding: 100px 2rem;
+padding: 50px 20px;
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -255,6 +255,11 @@ transition: var(--transition);
 text-decoration: none;
 display: inline-block;
 text-align: center;
+}
+.btn:hover{
+    background-color: #333;
+    color: white;
+    transition:0.3s;
 }
 
 .btn-primary {
@@ -482,7 +487,9 @@ margin-bottom: 1rem;
 }
 
 /* ========== ABOUT SECTION ========== */
-
+.about {
+    padding:50px 20px;
+}
 
 .about-content {
 display: grid;
@@ -707,10 +714,11 @@ color: var(--primary-dark);
     gap:1rem;
     justify-content: center;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 .contact {
     text-align: center;
-
+     padding:50px 20px;
     
 }
 
