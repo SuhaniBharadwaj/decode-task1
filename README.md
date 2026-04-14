@@ -1,39 +1,25 @@
-# Task 1 – Static Portfolio Website
+🌐 Task 1 - Static Webpage
 
-This project is a personal portfolio website created using HTML and CSS as part of the DecodeLabs Web Development Internship Task-1 submission.
+📌 Description
 
-## Features
+This project is a static webpage created using HTML and CSS as part of the Frontend Development Internship Task 1.
+It demonstrates basic web design, layout structuring, and styling.
 
-- Fixed navigation bar
-- Hero introduction section
-- About section
-- Skills section with cards
-- Projects section
-- Contact buttons (Email, LinkedIn, GitHub)
-- Gradient background styling
-- Font Awesome icons
-- Google Fonts typography
+🚀 Features
 
-## Technologies Used
+- Responsive webpage design
+- Clean and simple user interface
+- Proper HTML structure and CSS styling
+
+🛠️ Tech Stack
 
 - HTML
 - CSS
-- Google Fonts
-- Font Awesome
 
-## Project Structure
+🔗 Live Demo
 
-index.html → website structure  
-style.css → website styling  
-img.jpeg → profile image  
+👉 https://decodelabs-task1.netlify.app/
 
-## Purpose of Task
+👩‍💻 Author
 
-The objective of this task is to build a clean and structured static portfolio website using only HTML and CSS without JavaScript or responsiveness.
-## 🔗 Live Demo
-
-https://decodelabs-task1.netlify.app/
-
-## Author
-
-Suhani Bharadwaj
+Suhani Bhardwaj
